@@ -22,11 +22,14 @@
 </div>
 
 
+<!--
 <img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haider-deriv&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" width='520px' />
 <!-- Additional stats that can go in "show" are reviews,discussions_started,discussions_answered, -->
 
 
+<!--
 <img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=haider-deriv&&custom_title=Programming%20Languages&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=490&exclude_repo=AcademicProjects,Courses,Clones&langs_count=5&hide=cmake,html,css,scss,tex" width='520px' />
+-->
 
 <!--
 <img src="https://hs-github-stats.vercel.app/api/wakatime?username=HaiderSultanArc&custom_title=Main%20Language%20Experience&theme=tokyonight&bg_color=00000000&show_icons=true&hide_progress=true&hide_border=true&langs_count=1&hide=yaml,json,markdown,bash,scss,git%20config,HTML,XML,CSS,toml,objective-c,MySQL,ezhil,git,other,text,csv,ini,reStructuredText,GDScript" />
