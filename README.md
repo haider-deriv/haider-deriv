@@ -18,7 +18,7 @@
 --------------------------------------------------------------------------------------------------------
 
 <div align="center">
-    <img alt="Haider Sultan's Streak Stats" src="https://hs-deriv-github-stats.vercel.app?user=haider-deriv&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width='530px' />
+    <img alt="Haider Sultan's Streak Stats" src="https://hs-github-streak-stats.vercel.app?user=haider-deriv&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width='530px' />
 </div>
 
 
