@@ -18,11 +18,11 @@
 --------------------------------------------------------------------------------------------------------
 
 <div align="center">
-    <img alt="Haider Sultan's Streak Stats" src="https://hs-github-streak-stats.vercel.app?user=haider-deriv&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width='530px' />
+    <img alt="Haider Sultan's Streak Stats" src="https://hs-deriv-github-stats.vercel.app?user=haider-deriv&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width='530px' />
 </div>
 
 
-<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haider-deriv&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" width='520px' />
+<img alt="Haider Sultan's Github Stats" src="https://hs-deriv-github-stats.vercel.app/api?username=haider-deriv&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" width='520px' />
 <!-- Additional stats that can go in "show" are reviews,discussions_started,discussions_answered, -->
 
 
