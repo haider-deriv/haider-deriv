@@ -1,21 +1,4 @@
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Haider Sultan's GitHub Profile">
-    <meta name="keywords" content="Haider Sultan, Haider, Sultan, HaiderSultanArc">
-    <meta name="author" content="Haider Sultan">
-</head>
-
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
-
-- ✨ Artificial Intelligence Engineer
-- ⚙️ Working on: `A Better Future`!
-- 🚀 Currently Learning `Generative AI`!
-- 🤗 Get my Models from my HuggingFace Profile: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
-- 📃 Read my research [Clinical Decision Support System for Unani Medicine Practitioners](https://arxiv.org/abs/2310.18361)
-
-
---------------------------------------------------------------------------------------------------------
 
 <div align="center">
     <img alt="Haider Sultan's Streak Stats" src="https://hs-github-streak-stats.vercel.app?user=haider-deriv&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width='530px' />
